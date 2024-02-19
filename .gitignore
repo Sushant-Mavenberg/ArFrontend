@@ -1,0 +1,64 @@
+# Dependencies
+node_modules/
+src/assets
+# Binary files
+ios/build/
+android/app/build/
+android/build/
+android/captures/
+android/gradle/
+android/local.properties
+
+# Debug logs and crash reports
+android/app/build/intermediates/crash-symbol/
+android/app/build/intermediates/logs/
+android/app/build/intermediates/profiler-data/
+android/app/build/intermediates/runtime-classes/
+android/app/build/intermediates/incremental/
+android/app/build/intermediates/javac/
+android/app/build/intermediates/renderscript/
+android/app/build/intermediates/res/merged/
+android/app/build/intermediates/signing_config/
+android/app/build/outputs/
+android/app/build/tmp/
+android/app/src/main/assets/index.android.bundle
+android/app/src/main/assets/index.android.bundle.meta
+android/app/src/main/res/raw/dev
+android/app/src/main/res/raw/dev/index.android.bundle
+android/app/src/main/res/raw/dev/index.android.bundle.meta
+ios/build/
+ios/Pods/
+ios/DerivedData/
+ios/.generated/
+
+# Environment variables
+.env
+
+# OS and editor-specific files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis
+.svn/
+._*
+.desktop.ini
+.cache/
+npm-debug.log*
+
+# macOS
+*.swp
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+RECYCLER/
+System Volume Information/
+ehthumbs.db
+Thumbs.db

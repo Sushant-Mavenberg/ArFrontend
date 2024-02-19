@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Agbalumo-Regular.ttf",
+      "sha1": "b0670b6c5fab78a1f8096936516c010a3134aa1b"
+    },
+    {
+      "path": "src/assets/fonts/AlumniSansInlineOne-Italic.ttf",
+      "sha1": "88c96f781c29444a61c9a6c7aed9e84874bfffd7"
+    },
+    {
+      "path": "src/assets/fonts/AlumniSansInlineOne-Regular.ttf",
+      "sha1": "3bdff2daa82c7660f98ad45d6b62eb0c6cf7d6c8"
+    },
+    {
+      "path": "src/assets/fonts/Kenia-Regular.ttf",
+      "sha1": "3ea358c7d3a96d55bbe8f3eee58bb081ef4e9013"
+    }
+  ]
+}

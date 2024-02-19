@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637096417530",
+    "project_id": "arphibo-ecommerce",
+    "storage_bucket": "arphibo-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637096417530:android:c9e351c46aacb773fa5143",
+        "android_client_info": {
+          "package_name": "com.arproject1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx7kVEZTqDIYYOIP6GmLD-4UmVfknr2lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
